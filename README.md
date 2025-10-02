@@ -1,0 +1,1 @@
+This is my  first GitHub repository.  I created it to practice using GitHub and to track my learning progress.  Inside this repository, I’ll be uploading Python files that show my progress over time.  Each new file will reflect something I’ve learned, from simple code like printing messages and plotting functions, to more advanced projects as I grow my skills.  
